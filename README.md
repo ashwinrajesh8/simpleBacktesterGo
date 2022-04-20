@@ -15,6 +15,7 @@ C:\simpleBacktesterGo> cd src
 C:\simpleBacktesterGo\src> go run .
 ```
 ### Frontend
+Link to ruby on rails frontend interface: https://github.com/ashwinrajesh8/simpleBacktesterRuby
 Access @ localhost:3000
 ```
 C:\> cd simpleBacktesterRuby
